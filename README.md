@@ -1,5 +1,7 @@
 # JavaScript Basics
 
+![javaScript Logo](http://www.saitarisblog.com/wp-content/uploads/2015/06/JavaScript-logo-small-cropped-300x196.png)
+
 In this repo you will find code examples that we have covered in our lessons.
 
 ## Authors
