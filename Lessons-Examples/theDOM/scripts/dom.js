@@ -36,3 +36,17 @@ let againAlsoHobbies = document.querySelectorAll('ul li.hobby');
 // pageNode.style.paddingTop = '10px';
 
 // console.log( pageNode.innerHTML );
+
+let body = document.body;
+// let newImg = document.createElement('img');
+//     newImg.src = 'https://images.unsplash.com/photo-1564865878688-9a244444042a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80';
+//     newImg.style.border = '1px solid black';
+//     newImg.style.width = '400px';
+//     body.appendChild( newImg );
+
+// Class Exercise
+
+// 1 . Create a new paragraph
+// 2. Create a text node with some text in it
+// 3. add the text to the paragraph node
+// 4. add the paragraph to the body
