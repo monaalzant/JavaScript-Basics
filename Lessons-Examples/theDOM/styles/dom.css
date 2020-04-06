@@ -1,6 +1,9 @@
 
     body {
       font-family: 'Montserrat', sans-serif;
+      /* color: red;
+      background-color: pink;
+      padding-top: 10px; */
     }
     .container {
       width: 90%;
@@ -11,4 +14,13 @@
     header {
       padding: .5em;
       font-family: 'Permanent Marker', cursive;
+    }
+
+    .border {
+      border: 10px solid goldenrod;
+    }
+
+    .logo {
+      width: 250px;
+      height: 250px;
     }

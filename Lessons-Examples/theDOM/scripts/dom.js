@@ -25,3 +25,14 @@ let againAlsoHobbies = document.querySelectorAll('ul li.hobby');
 // let oldImageSource = uxDesignImage.src;
 
 //     uxDesignImage.src = 'https://images.unsplash.com/photo-1558403194-611308249627?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80';
+
+// uxDesignImage.className = 'border';
+
+// Manipulating a DOM Node's Styles
+
+// let pageNode = document.body;
+// pageNode.style.color = 'red';
+// pageNode.style.backgroundColor = 'pink';
+// pageNode.style.paddingTop = '10px';
+
+// console.log( pageNode.innerHTML );
