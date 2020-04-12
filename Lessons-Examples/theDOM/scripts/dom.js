@@ -23,7 +23,7 @@ let againAlsoHobbies = document.querySelectorAll('ul li.hobby');
 
 // document.querySelector( cssQuery );
 // document.querySelectorAll( cssQuery );
-
+let pageNode.style
 
 // Returning element vs Array of Elements
 
@@ -75,3 +75,4 @@ newParagraph.appendChild( newText );
 
 // 4. add the paragraph to the body
 body.appendChild( newParagraph );
+console.log('mona')
